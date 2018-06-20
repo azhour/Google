@@ -1,0 +1,34 @@
+
+
+.linkBottom2
+{
+  display: inline-block;
+  width: 150px;
+  vertical-align: bottom;
+}
+
+a
+{
+  text-decoration: none;
+  color: black;
+  font-style: normal;
+}
+
+a:hover
+{
+  text-decoration: underline;
+}
+
+
+footer
+{
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  border-left: none;
+  border-right: none;
+}
+
+ul,li
+{
+  list-style: none;
+}
