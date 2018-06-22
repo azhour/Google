@@ -1,24 +1,54 @@
 
-
-.linkBottom2
-{
-  display: inline-block;
-  width: 150px;
-  vertical-align: bottom;
+.linkTop {
+  padding: 0; margin: 0;
+  text-align: right;
 }
 
+.linkTop li {
+  display: inline;
+  list-style: none;
+}
+
+#linkBottom {
+  padding: 0; margin: 0;
+  text-align: left;
+}
+
+#linkBottom li {
+  display: inline;
+  list-style: none;
+}
+
+.France
+{
+  border-bottom: 1px solid grey;
+}
 a
 {
-  text-decoration: none;
-  color: black;
+  color: grey;
   font-style: normal;
+  text-decoration: none;
 }
 
 a:hover
 {
   text-decoration: underline;
 }
+em:hover
+{
+  text-decoration: underline;
+}
 
+#Langue_
+{
+  text-align: center;
+}
+
+em
+{
+  color: blue;
+  font-style: normal;
+}
 
 footer
 {
@@ -31,4 +61,30 @@ footer
 ul,li
 {
   list-style: none;
+}
+
+.Google
+{
+width:30em;
+vertical-align: middle;
+}
+
+.search
+{
+  margin-left: 150px;
+}
+
+.submit
+{
+  margin-left: 100px;
+}
+
+.submit2
+{
+  margin-left: 200px;
+}
+
+.logo
+{
+  width: 1.5em;
 }
