@@ -1,46 +1,51 @@
-.Topmenu
+hmtl,body
 {
-  background-color: grey;
-  text-align: right;
+  padding: 0;
+  margin: 0;
+  font-size: small
 }
 .icone
 {
-  width: 1.5em;
-  vertical-align: middle;
+  width: 30px
+}
+
+li
+{
+  display: inline-block;
+  margin-right: 10px;
+}
+ul
+{
+  text-align: right;
+  margin-bottom: 100px;
 }
 .Google
 {
-  background-color: red;
   width: 500px;
-  margin: auto;
+margin: auto;
 }
 .logo
 {
-  width: 270px;
-
+  width: 350px;
+  margin: auto;
+  display: block;
 }
-footer
+
+input[type=text]{
+  width: 450px;
+  margin: auto;
+  display: block;
+}
+.input
 {
-background-color: grey;
+  width: 150px;
+  margin: auto;
+  margin-top: 17px;
+  margin-right: -43px;
+  margin-left: 73px;
 }
-
-.menuLeft
+.text
 {
-  background-color: pink;
-}
-
-.menuRight
-{
-  background-color: pink;
-}
-
-hmtl,body
-{
-  margin: 0;
-  padding: 0;
-}
-
-li{
-  display: inline-block;
-  margin-right: 3px;
+  text-align: center;
+  margin-top: 25px;
 }
