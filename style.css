@@ -14,10 +14,10 @@ li
   display: inline-block;
   margin-right: 10px;
 }
-ul
+ ul
 {
   text-align: right;
-  margin-bottom: 100px;
+  margin-bottom: 87px;
 }
 .Google
 {
@@ -26,7 +26,7 @@ margin: auto;
 }
 .logo
 {
-  width: 350px;
+  width: 340px;
   margin: auto;
   display: block;
 }
@@ -52,11 +52,32 @@ input[type=text]{
 
 footer
 {
-  bottom: 0;
-  width: 100%
+  width: 100%;
+  margin-top: 147px;
+  color: grey;
+  border-bottom: 1px solid #e4e4e4;
+  border-top: 1px solid #e4e4e4;
+
 }
 
-footer ul
-{display:inline-block;
+.BottommenuL
+{
+  display: inline-block;
   width: 52%;
+}
+
+.BottommenuR
+{
+  width: 48%;
+}
+
+li:hover
+{
+text-decoration: underline;
+}
+.text2
+{
+  width: 100%;
+  margin-left: 0px;
+  border-bottom: 1px solid #e4e4e4;
 }
