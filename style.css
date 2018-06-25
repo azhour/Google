@@ -14,11 +14,10 @@ li
   display: inline-block;
   margin-right: 10px;
 }
- ul
-{
-  text-align: right;
-  margin-bottom: 87px;
-}
+ .TopLink
+ {
+   text-align: right;
+ }
 .Google
 {
   width: 500px;
@@ -75,12 +74,15 @@ footer
 .BottommenuL
 {
   display: inline-block;
-  width: 52%;
+  width: 50%;
+  text-align: left;
 }
 
 .BottommenuR
 {
   width: 48%;
+  display: inline-block;
+  text-align: right;
 }
 
 li:hover
