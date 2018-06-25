@@ -1,0 +1,97 @@
+hmtl,body
+{
+  padding: 0;
+  margin: 0;
+  font-size: small
+}
+.icone
+{
+  width: 30px
+}
+
+li
+{
+  display: inline-block;
+  margin-right: 10px;
+}
+ .TopLink
+ {
+   text-align: right;
+ }
+.Google
+{
+  width: 500px;
+margin: auto;
+}
+.logo
+{
+  width: 340px;
+  margin: auto;
+  display: block;
+}
+
+input[type=text]{
+  width: 450px;
+  margin: auto;
+  display: block;
+  box-shadow: 2px 2px 0px transparent;
+  height: 30px;
+}
+
+.input
+{
+  width: 150px;
+  margin: auto;
+  margin-top: 17px;
+  margin-right: -43px;
+  margin-left: 73px;
+}
+.text
+{
+  text-align: center;
+  margin-top: 25px;
+}
+em
+{
+  color: blue;
+  font-style: normal;
+}
+em:hover
+{
+
+  text-decoration: underline;
+}
+footer
+{
+  width: 100%;
+  margin-top: 147px;
+  color: grey;
+  border-bottom: 1px solid #e4e4e4;
+  border-top: 1px solid #e4e4e4;
+
+}
+
+.BottommenuL
+{
+  display: inline-block;
+  width: 50%;
+  text-align: left;
+}
+
+.BottommenuR
+{
+  width: 48%;
+  display: inline-block;
+  text-align: right;
+}
+
+li:hover
+{
+text-decoration: underline;
+}
+.text2
+{
+  width: 100%;
+  margin-left: 0px;
+  border-bottom: 1px solid #e4e4e4;
+}
